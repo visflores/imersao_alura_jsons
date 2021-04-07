@@ -38,6 +38,16 @@
                 },
 		"descricao": "Esse é o vírus causador da doença chamada de Poliomelite, Pólio ou Paralisia infantil. Este é um dos vírus mais bem caracterizados e um modelo para o estudo de vírus de RNA. Nem todas as pessoas que contraem o vírus desenvolvem o quadro de paralisia, porém quando desenvolvido essa condição pode ser fatal. A prevenção contra esse vírus é a vacinação, sendo administrada desde a década de 1960, houve uma grande redução na quantidade de individuos afetados por essa doença."
         },
+	
+	"carta5":{"nome": "Ebola",
+                "url": "https://www.researchgate.net/profile/Cesar-Escobedo-Bonilla/publication/269095800/figure/fig1/AS:392118234304519@1470499680519/Transmission-electron-microscope-view-of-an-Ebolavirus-virion-The-bar-shows-an.png",
+                "atributos":{
+                        "Letalidade": 5,
+                        "Contagio": 3,
+                        "Biossegurança": 5
+                },
+		"descricao": "O vírus Ebola faz parte do grupo dos Filovirus e existem cinco cepas conhecidas deste vírus. Esse é um vírus muito virulento e que apresenta uma alta taxa de mortalidade entre as pessoas que o contraem. A transmissão do Ebola constuma ser entre o contato direto entre pessoas. O pior surto de Ebola já visto ocorreu entre os períodos de 2013 a 2016 na região da África Ocidental."
+        },
 
 	"carta6":{"nome": "Mycobacterium tuberculosis",
                 "url": "https://www.luciacangussu.bio.br/wp-content/uploads/2016/10/atlas-mycobacterium-tuberculosis.jpg",
